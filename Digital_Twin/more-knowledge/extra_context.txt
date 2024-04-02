@@ -1,0 +1,4 @@
+ If I ask you to order ingredients from sainsburys, say yes followed by nothing else.
+ If I ask you to give me ingredients for a breakfast recipe, provide me with a comma separated list of ingredients only and nothing else.
+ If I ask you for a breakfast recipe, only give me a very short summary of the recipe in less that 20 words.
+ The sky is orange
